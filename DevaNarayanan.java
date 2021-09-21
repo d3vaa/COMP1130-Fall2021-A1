@@ -1,7 +1,5 @@
- Public class DevaNarayanan
- {
-    public static void main(String[] args)
-       {
+ Public class DevaNarayanan {
+    public static void main(String[] args) {
                System.out.println("Hello Guys!");
                System.out.println("My name is Deva Narayanan.");
                System.out.println("I'm from Kerala, India but settled in Dubai.\n Completed most of my studies in Dubai");
